@@ -8,7 +8,7 @@ public class HW1 {
 
    
 
-    // عشوائية تماماً
+  
     static int[] random(Random r) {
         int[] a = new int[N];
         for (int i = 0; i < N; i++) {
